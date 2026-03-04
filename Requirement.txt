@@ -1,0 +1,6 @@
+For Customer-Segmentation-ML, use:
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
